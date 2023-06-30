@@ -11,7 +11,7 @@ Paste token and bot id in .env file for it to work
   - ms
  
 ```
- npm install discord.js
+npm install discord.js
 ```
 ```
 npm install ms

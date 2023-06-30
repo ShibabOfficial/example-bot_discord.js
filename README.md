@@ -10,8 +10,12 @@ Paste token and bot id in .env file for it to work
   - discord.js
   - ms
  
+```
  npm install discord.js
- npm install ms
+```
+```
+npm install ms
+```
  
  paste token and bot id in .env file for it to work
  

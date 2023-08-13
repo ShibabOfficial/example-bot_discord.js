@@ -16,6 +16,9 @@ npm install discord.js
 ```
 npm install ms
 ```
+```
+npm install dotenv
+```
  
  paste token and bot id in .env file for it to work
  
